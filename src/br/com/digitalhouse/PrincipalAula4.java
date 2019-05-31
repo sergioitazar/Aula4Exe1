@@ -19,6 +19,7 @@ public class PrincipalAula4 {
 
         double diferenca = umNumeroA - umNumeroB;
 
+        
         System.out.println("Diferença dos números ");
         System.out.println(diferenca);
 
